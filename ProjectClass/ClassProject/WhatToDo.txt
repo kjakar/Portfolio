@@ -1,0 +1,1 @@
+go into src, then scripts, and run "main-AlexJones.py"
